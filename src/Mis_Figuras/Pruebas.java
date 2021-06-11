@@ -22,7 +22,7 @@ public class Pruebas {
         System.out.println("Rectangulo base "+r1.getBase()+"altura"+r1.getAltura()+"es"+r1.calcularPerimetro());
         //Area       (1er.objeto)
         System.out.println("Rectangulo base "+r1.getBase()+"y altura"+r1.getAltura()+"es: "+r1.calcularArea());
-    
+    //Salazar
         //Circulos  (1er.objeto)
         Circulo c1=new Circulo(2);
         
