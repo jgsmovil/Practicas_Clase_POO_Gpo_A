@@ -2,7 +2,7 @@
  Permitir al usuario ingresar datos sin usar Scanner 
  */
 package Excepciones;
-
+//Modificado por garduño
 import java.io.IOException;
 
 /**
